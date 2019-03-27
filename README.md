@@ -1,6 +1,6 @@
 # AIPortfolio
 안녕하세요.  지금까지 인공지능을 공부하면서 정리해온 코드입니다
-
+* pca
 Numpy, Pandas, Matpoltlib <- 데이터 전처리
 
 MachineLearning, DeepLearning <- 각 종 기계학습 알고리즘
