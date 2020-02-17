@@ -1,0 +1,39 @@
+Threading 모듈은 아래와 같은 객체들을 가지고 있다.
+
+Thread : 단일 실행 쓰레드를 만드는 객체 
+
+Lock : 기본적인 락 객체 
+
+RLock : 재진입 가능한 락객체. 이미 획득한 락을 다시 획득 할 수 있다. 
+
+Condition : 다른 쓰레드에서 신호를 줄 때까지 기다릴 수 있는 컨디션 변수 객체  
+
+Event : 컨디션 변수의 일반화 버전. 
+
+Semaphore : 정해놓은 갯수만큼의 쓰레드를 허용하는 동기화 객체. (예를들어 최대 50개만 동시에 실행) 
+
+BoundedSemaphore : 초기 설정된 값 이상으로 증가 될 수 없게 재한한 Semaphore 
+
+Timer :  Thread 와 비슷하지마 실행되기 전에 지정된 시간 동안 대기  
+
+Barrier : 쓰레드들이 계속 진행 할 수 있으려면 지정된 숫자의 쓰레드가 해당 지점까지 도달해야하게 만듬 (파이썬 3.2에서 처음 소개됨) 
+
+
+Thread 클래스
+
+속성
+
+daemon : 데몬쓰레드인지 - 기본은 False, 즉 부모쓰레드가 종료되도 살아있다. 
+
+  __init__(group,target,name,args,kwargs={},verbose,daemon) : 객체를 초기화한다
+
+ start() : 쓰레드를 실행한다.
+
+ run() :  쓰레드의 기능을 정희하는 메소드 (상속해서 오버라이드됨)  
+
+ join(timeout=None) : 쓰레드가 종료될때까지 대기한다.
+
+
+
+출처: https://hamait.tistory.com/752?category=79136 [HAMA 블로그]
+
