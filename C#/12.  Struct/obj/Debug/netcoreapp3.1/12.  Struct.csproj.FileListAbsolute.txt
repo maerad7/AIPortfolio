@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct.deps.json
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct.dll
+/home/newdrone18/AIPortfolio/C#/12.  Struct/bin/Debug/netcoreapp3.1/12.  Struct.pdb
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.dll
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.pdb
+/home/newdrone18/AIPortfolio/C#/12.  Struct/obj/Debug/netcoreapp3.1/12.  Struct.genruntimeconfig.cache

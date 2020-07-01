@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest.deps.json
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest.dll
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/bin/Debug/netcoreapp3.1/11. NameSpaceTest.pdb
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.dll
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.pdb
+/home/newdrone18/AIPortfolio/C#/11. NameSpaceTest/obj/Debug/netcoreapp3.1/11. NameSpaceTest.genruntimeconfig.cache

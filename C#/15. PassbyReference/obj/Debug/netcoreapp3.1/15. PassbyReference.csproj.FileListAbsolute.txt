@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference.deps.json
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference.dll
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/bin/Debug/netcoreapp3.1/15. PassbyReference.pdb
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.dll
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.pdb
+/home/newdrone18/AIPortfolio/C#/15. PassbyReference/obj/Debug/netcoreapp3.1/15. PassbyReference.genruntimeconfig.cache

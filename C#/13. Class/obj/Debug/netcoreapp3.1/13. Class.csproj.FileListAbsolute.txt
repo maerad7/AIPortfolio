@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class.deps.json
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class.dll
+/home/newdrone18/AIPortfolio/C#/13. Class/bin/Debug/netcoreapp3.1/13. Class.pdb
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.dll
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.pdb
+/home/newdrone18/AIPortfolio/C#/13. Class/obj/Debug/netcoreapp3.1/13. Class.genruntimeconfig.cache
