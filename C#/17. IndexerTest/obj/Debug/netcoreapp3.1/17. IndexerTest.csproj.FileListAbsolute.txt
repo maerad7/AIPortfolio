@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest.deps.json
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest.dll
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/bin/Debug/netcoreapp3.1/17. IndexerTest.pdb
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.dll
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.pdb
+/home/newdrone18/AIPortfolio/C#/17. IndexerTest/obj/Debug/netcoreapp3.1/17. IndexerTest.genruntimeconfig.cache
