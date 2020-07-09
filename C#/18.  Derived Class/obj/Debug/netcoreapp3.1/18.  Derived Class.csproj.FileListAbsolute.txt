@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class.deps.json
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class.dll
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/bin/Debug/netcoreapp3.1/18.  Derived Class.pdb
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.dll
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.pdb
+/home/newdrone18/AIPortfolio/C#/18.  Derived Class/obj/Debug/netcoreapp3.1/18.  Derived Class.genruntimeconfig.cache

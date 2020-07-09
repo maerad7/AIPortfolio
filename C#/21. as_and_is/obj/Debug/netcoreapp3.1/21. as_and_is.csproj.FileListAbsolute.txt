@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is.deps.json
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is.dll
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/bin/Debug/netcoreapp3.1/21. as_and_is.pdb
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.dll
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.pdb
+/home/newdrone18/AIPortfolio/C#/21. as_and_is/obj/Debug/netcoreapp3.1/21. as_and_is.genruntimeconfig.cache

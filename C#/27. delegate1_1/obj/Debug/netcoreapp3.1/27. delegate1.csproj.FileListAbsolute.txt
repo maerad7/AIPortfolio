@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1.deps.json
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1.dll
+/home/newdrone18/AIPortfolio/C#/27. delegate1/bin/Debug/netcoreapp3.1/27. delegate1.pdb
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.dll
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.pdb
+/home/newdrone18/AIPortfolio/C#/27. delegate1/obj/Debug/netcoreapp3.1/27. delegate1.genruntimeconfig.cache
