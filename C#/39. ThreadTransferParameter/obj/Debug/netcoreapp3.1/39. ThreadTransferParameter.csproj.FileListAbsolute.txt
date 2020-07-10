@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter.deps.json
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter.dll
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/bin/Debug/netcoreapp3.1/39. ThreadTransferParameter.pdb
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.dll
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.pdb
+/home/newdrone18/AIPortfolio/C#/39. ThreadTransferParameter/obj/Debug/netcoreapp3.1/39. ThreadTransferParameter.genruntimeconfig.cache

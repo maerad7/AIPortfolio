@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod.deps.json
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod.dll
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/bin/Debug/netcoreapp3.1/30. NoNamedMethod.pdb
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.dll
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.pdb
+/home/newdrone18/AIPortfolio/C#/30. NoNamedMethod/obj/Debug/netcoreapp3.1/30. NoNamedMethod.genruntimeconfig.cache

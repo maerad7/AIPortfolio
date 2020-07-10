@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod.deps.json
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod.dll
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/bin/Debug/netcoreapp3.1/33. ExtentionMethod.pdb
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.dll
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.pdb
+/home/newdrone18/AIPortfolio/C#/33. ExtentionMethod/obj/Debug/netcoreapp3.1/33. ExtentionMethod.genruntimeconfig.cache

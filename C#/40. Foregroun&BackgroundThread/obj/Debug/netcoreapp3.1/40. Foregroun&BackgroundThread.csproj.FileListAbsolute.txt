@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.deps.json
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.dll
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/bin/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.pdb
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.dll
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.pdb
+/home/newdrone18/AIPortfolio/C#/40. Foregroun&BackgroundThread/obj/Debug/netcoreapp3.1/40. Foregroun&BackgroundThread.genruntimeconfig.cache

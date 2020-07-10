@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/newdrone18/.dotnet/store/|arch|/|tfm|",
+      "/home/newdrone18/.nuget/packages"
+    ]
+  }
+}

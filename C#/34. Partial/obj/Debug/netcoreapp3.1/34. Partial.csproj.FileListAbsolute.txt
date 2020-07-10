@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial.deps.json
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial.dll
+/home/newdrone18/AIPortfolio/C#/34. Partial/bin/Debug/netcoreapp3.1/34. Partial.pdb
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.dll
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.pdb
+/home/newdrone18/AIPortfolio/C#/34. Partial/obj/Debug/netcoreapp3.1/34. Partial.genruntimeconfig.cache
