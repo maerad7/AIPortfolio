@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "42. AsyncDelgateT/1.0.0": {
+        "runtime": {
+          "42. AsyncDelgateT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "42. AsyncDelgateT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

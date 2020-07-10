@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT.deps.json
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT.dll
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/bin/Debug/netcoreapp3.1/42. AsyncDelgateT.pdb
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.dll
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.pdb
+/home/newdrone18/AIPortfolio/C#/42. AsyncDelgateT/obj/Debug/netcoreapp3.1/42. AsyncDelgateT.genruntimeconfig.cache
