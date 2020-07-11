@@ -25,3 +25,7 @@
     3. Pandas
     4. Numpy
     5. WEBcrawling
+4. programming
+    1. Python
+    2. C++
+    3. C#
