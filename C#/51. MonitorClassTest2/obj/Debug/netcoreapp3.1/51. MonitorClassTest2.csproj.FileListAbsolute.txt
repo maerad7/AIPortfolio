@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2.deps.json
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2.dll
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/bin/Debug/netcoreapp3.1/51. MonitorClassTest2.pdb
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.dll
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.pdb
+/home/newdrone18/AIPortfolio/C#/51. MonitorClassTest2/obj/Debug/netcoreapp3.1/51. MonitorClassTest2.genruntimeconfig.cache

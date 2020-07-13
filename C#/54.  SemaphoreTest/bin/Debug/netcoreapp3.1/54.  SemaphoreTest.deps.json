@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "54.  SemaphoreTest/1.0.0": {
+        "runtime": {
+          "54.  SemaphoreTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "54.  SemaphoreTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

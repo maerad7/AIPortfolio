@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1.deps.json
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1.dll
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/bin/Debug/netcoreapp3.1/46. TaskTClass1.pdb
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.dll
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.pdb
+/home/newdrone18/AIPortfolio/C#/46. TaskTClass1/obj/Debug/netcoreapp3.1/46. TaskTClass1.genruntimeconfig.cache

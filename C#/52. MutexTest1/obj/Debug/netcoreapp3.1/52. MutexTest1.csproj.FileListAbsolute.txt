@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1.deps.json
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1.dll
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/bin/Debug/netcoreapp3.1/52. MutexTest1.pdb
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.dll
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.pdb
+/home/newdrone18/AIPortfolio/C#/52. MutexTest1/obj/Debug/netcoreapp3.1/52. MutexTest1.genruntimeconfig.cache
