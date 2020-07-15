@@ -29,3 +29,5 @@
     1. Python
     2. C++
     3. C#
+    4. 자료구조(python)
+    5. 알고리즘(python)
