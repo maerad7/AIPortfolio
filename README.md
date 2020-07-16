@@ -35,7 +35,7 @@
     1. Opencv
     2. Image Classification
     3. Object Detection
-    4. Segmetation
+    4. Segmentation
 6. NLP(향후 업뎃)    
 7. 기타
     1. QT5
