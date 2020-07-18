@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef PERSON_H
 #define PERSON_H
 
@@ -33,3 +34,40 @@ public slots:
 };
 
 #endif // PERSON_H
+=======
+#ifndef PERSON_H
+#define PERSON_H
+
+#include <QObject>
+
+class Person : public QObject
+{
+    Q_OBJECT
+    Q_PROPERTY(QString name MEMBER m_name READ getName WRITE setName
+               NOTIFY nameChanged)
+
+public:
+    explicit Person(QObject *parent = nullptr);
+
+    QString getName() const
+    {
+        return m_name;
+    }
+
+    void setName(const QString &n)
+    {
+        m_name = n;
+        emit nameChanged(n);
+    }
+
+private:
+    QString m_name;
+
+signals:
+    void nameChanged(const QString &n);
+
+public slots:
+};
+
+#endif // PERSON_H
+>>>>>>> d2e7b951dce912923d6d05b0809030f1f81655b7
