@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1.deps.json
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1.dll
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/bin/Debug/netcoreapp3.1/48. TimerTest1.pdb
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.dll
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.pdb
+/home/newdrone18/AIPortfolio/C#/48. TimerTest1/obj/Debug/netcoreapp3.1/48. TimerTest1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect.deps.json
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect.dll
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/bin/Debug/netcoreapp3.1/20. publicandprotect.pdb
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.dll
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.pdb
+/home/newdrone18/AIPortfolio/C#/20. publicandprotect/obj/Debug/netcoreapp3.1/20. publicandprotect.genruntimeconfig.cache

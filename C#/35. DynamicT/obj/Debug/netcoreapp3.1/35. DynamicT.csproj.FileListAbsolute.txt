@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT.deps.json
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT.dll
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/bin/Debug/netcoreapp3.1/35. DynamicT.pdb
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.dll
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.pdb
+/home/newdrone18/AIPortfolio/C#/35. DynamicT/obj/Debug/netcoreapp3.1/35. DynamicT.genruntimeconfig.cache

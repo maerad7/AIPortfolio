@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss.deps.json
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss.dll
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/bin/Debug/netcoreapp3.1/23. StaticCalss.pdb
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.dll
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.pdb
+/home/newdrone18/AIPortfolio/C#/23. StaticCalss/obj/Debug/netcoreapp3.1/23. StaticCalss.genruntimeconfig.cache

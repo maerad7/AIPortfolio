@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception.deps.json
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception.dll
+/home/newdrone18/AIPortfolio/C#/10. Exception/bin/Debug/netcoreapp3.1/10. Exception.pdb
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.dll
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.pdb
+/home/newdrone18/AIPortfolio/C#/10. Exception/obj/Debug/netcoreapp3.1/10. Exception.genruntimeconfig.cache

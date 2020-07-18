@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class.deps.json
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class.dll
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/bin/Debug/netcoreapp3.1/19. Abstract Class.pdb
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.dll
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.pdb
+/home/newdrone18/AIPortfolio/C#/19. Abstract Class/obj/Debug/netcoreapp3.1/19. Abstract Class.genruntimeconfig.cache

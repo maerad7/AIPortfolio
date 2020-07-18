@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2.deps.json
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2.dll
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/bin/Debug/netcoreapp3.1/08.  Loop2.pdb
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.dll
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.pdb
+/home/newdrone18/AIPortfolio/C#/08.  Loop2/obj/Debug/netcoreapp3.1/08.  Loop2.genruntimeconfig.cache

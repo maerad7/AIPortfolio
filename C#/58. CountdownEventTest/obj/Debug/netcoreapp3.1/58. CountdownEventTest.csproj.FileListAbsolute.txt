@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest.deps.json
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest.dll
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/bin/Debug/netcoreapp3.1/58. CountdownEventTest.pdb
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.dll
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.pdb
+/home/newdrone18/AIPortfolio/C#/58. CountdownEventTest/obj/Debug/netcoreapp3.1/58. CountdownEventTest.genruntimeconfig.cache

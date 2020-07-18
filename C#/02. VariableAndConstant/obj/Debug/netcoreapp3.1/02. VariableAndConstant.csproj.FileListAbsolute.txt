@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant.deps.json
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant.dll
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/bin/Debug/netcoreapp3.1/02. VariableAndConstant.pdb
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.dll
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.pdb
+/home/newdrone18/AIPortfolio/C#/02. VariableAndConstant/obj/Debug/netcoreapp3.1/02. VariableAndConstant.genruntimeconfig.cache

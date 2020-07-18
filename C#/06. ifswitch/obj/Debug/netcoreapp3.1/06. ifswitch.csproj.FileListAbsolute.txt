@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch.deps.json
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch.dll
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/bin/Debug/netcoreapp3.1/06. ifswitch.pdb
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.dll
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.pdb
+/home/newdrone18/AIPortfolio/C#/06. ifswitch/obj/Debug/netcoreapp3.1/06. ifswitch.genruntimeconfig.cache

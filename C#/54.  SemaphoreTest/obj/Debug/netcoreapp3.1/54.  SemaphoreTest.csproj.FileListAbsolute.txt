@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest.deps.json
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest.dll
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/bin/Debug/netcoreapp3.1/54.  SemaphoreTest.pdb
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.dll
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.pdb
+/home/newdrone18/AIPortfolio/C#/54.  SemaphoreTest/obj/Debug/netcoreapp3.1/54.  SemaphoreTest.genruntimeconfig.cache

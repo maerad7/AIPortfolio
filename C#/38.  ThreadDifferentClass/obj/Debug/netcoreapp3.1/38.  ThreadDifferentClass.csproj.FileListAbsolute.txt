@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass.deps.json
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass.dll
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/bin/Debug/netcoreapp3.1/38.  ThreadDifferentClass.pdb
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.dll
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.pdb
+/home/newdrone18/AIPortfolio/C#/38.  ThreadDifferentClass/obj/Debug/netcoreapp3.1/38.  ThreadDifferentClass.genruntimeconfig.cache

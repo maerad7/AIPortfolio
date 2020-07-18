@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest.deps.json
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest.dll
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/bin/Debug/netcoreapp3.1/47. ParallelTest.pdb
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.dll
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.pdb
+/home/newdrone18/AIPortfolio/C#/47. ParallelTest/obj/Debug/netcoreapp3.1/47. ParallelTest.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/home/newdrone18/AIPortfolio/C#/16. EventTest/obj/Debug/netcoreapp3.1/16. EventTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/16. EventTest/obj/Debug/netcoreapp3.1/16. EventTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/16. EventTest/obj/Debug/netcoreapp3.1/16. EventTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/16. EventTest/obj/Debug/netcoreapp3.1/16. EventTest.csproj.CoreCompileInputs.cache

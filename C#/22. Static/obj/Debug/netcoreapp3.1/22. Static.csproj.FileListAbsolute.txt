@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static.deps.json
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static.dll
+/home/newdrone18/AIPortfolio/C#/22. Static/bin/Debug/netcoreapp3.1/22. Static.pdb
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.dll
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.pdb
+/home/newdrone18/AIPortfolio/C#/22. Static/obj/Debug/netcoreapp3.1/22. Static.genruntimeconfig.cache

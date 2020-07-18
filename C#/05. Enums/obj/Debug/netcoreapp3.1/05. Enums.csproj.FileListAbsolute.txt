@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums.deps.json
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums.dll
+/home/newdrone18/AIPortfolio/C#/05. Enums/bin/Debug/netcoreapp3.1/05. Enums.pdb
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.dll
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.pdb
+/home/newdrone18/AIPortfolio/C#/05. Enums/obj/Debug/netcoreapp3.1/05. Enums.genruntimeconfig.cache

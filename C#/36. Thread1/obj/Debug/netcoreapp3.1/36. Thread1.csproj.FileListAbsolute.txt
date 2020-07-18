@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1.deps.json
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1.dll
+/home/newdrone18/AIPortfolio/C#/36. Thread1/bin/Debug/netcoreapp3.1/36. Thread1.pdb
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.dll
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.pdb
+/home/newdrone18/AIPortfolio/C#/36. Thread1/obj/Debug/netcoreapp3.1/36. Thread1.genruntimeconfig.cache

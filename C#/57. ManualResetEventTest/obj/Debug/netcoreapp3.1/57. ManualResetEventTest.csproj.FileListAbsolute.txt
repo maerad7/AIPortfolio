@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest.deps.json
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest.dll
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/bin/Debug/netcoreapp3.1/57. ManualResetEventTest.pdb
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.dll
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.pdb
+/home/newdrone18/AIPortfolio/C#/57. ManualResetEventTest/obj/Debug/netcoreapp3.1/57. ManualResetEventTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant.deps.json
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant.dll
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/bin/Debug/netcoreapp3.1/03. ReadonlyConstant.pdb
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.dll
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.pdb
+/home/newdrone18/AIPortfolio/C#/03. ReadonlyConstant/obj/Debug/netcoreapp3.1/03. ReadonlyConstant.genruntimeconfig.cache

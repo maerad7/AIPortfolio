@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1.deps.json
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1.dll
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/bin/Debug/netcoreapp3.1/49. LockTest1.pdb
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.dll
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.pdb
+/home/newdrone18/AIPortfolio/C#/49. LockTest1/obj/Debug/netcoreapp3.1/49. LockTest1.genruntimeconfig.cache

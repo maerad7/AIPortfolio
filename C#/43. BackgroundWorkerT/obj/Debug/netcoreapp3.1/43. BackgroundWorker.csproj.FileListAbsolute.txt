@@ -1,0 +1,17 @@
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorker/obj/Debug/netcoreapp3.1/43. BackgroundWorker.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorker/obj/Debug/netcoreapp3.1/43. BackgroundWorker.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorker/obj/Debug/netcoreapp3.1/43. BackgroundWorker.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorker/obj/Debug/netcoreapp3.1/43. BackgroundWorker.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker.deps.json
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker.dll
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/bin/Debug/netcoreapp3.1/43. BackgroundWorker.pdb
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.dll
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.pdb
+/home/newdrone18/AIPortfolio/C#/43. BackgroundWorkerT/obj/Debug/netcoreapp3.1/43. BackgroundWorker.genruntimeconfig.cache

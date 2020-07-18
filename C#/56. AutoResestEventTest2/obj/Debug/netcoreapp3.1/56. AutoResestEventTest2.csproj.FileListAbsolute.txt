@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2.deps.json
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2.dll
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/bin/Debug/netcoreapp3.1/56. AutoResestEventTest2.pdb
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.dll
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.pdb
+/home/newdrone18/AIPortfolio/C#/56. AutoResestEventTest2/obj/Debug/netcoreapp3.1/56. AutoResestEventTest2.genruntimeconfig.cache

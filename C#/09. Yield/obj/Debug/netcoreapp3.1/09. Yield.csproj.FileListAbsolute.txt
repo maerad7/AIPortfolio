@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield.deps.json
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield.dll
+/home/newdrone18/AIPortfolio/C#/09. Yield/bin/Debug/netcoreapp3.1/09. Yield.pdb
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.dll
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.pdb
+/home/newdrone18/AIPortfolio/C#/09. Yield/obj/Debug/netcoreapp3.1/09. Yield.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.csprojAssemblyReference.cache
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.AssemblyInfoInputs.cache
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.AssemblyInfo.cs
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.csproj.CoreCompileInputs.cache
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays.deps.json
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays.runtimeconfig.json
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays.runtimeconfig.dev.json
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays.dll
+/home/newdrone18/AIPortfolio/C#/04. Arrays/bin/Debug/netcoreapp3.1/04. Arrays.pdb
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.dll
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.pdb
+/home/newdrone18/AIPortfolio/C#/04. Arrays/obj/Debug/netcoreapp3.1/04. Arrays.genruntimeconfig.cache
