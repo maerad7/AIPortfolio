@@ -9,7 +9,6 @@
 
 아래는 목차입니다.
 
-컴퓨터 비전과 NLP는 학습하는 데로 업뎃하겠습니다.
 
 1. MachineLearning
     1. Linear regression
