@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 <RCC>
     <qresource prefix="/">
         <file>widget.qm</file>
     </qresource>
 </RCC>
+=======
+<RCC>
+    <qresource prefix="/">
+        <file>widget.qm</file>
+    </qresource>
+</RCC>
+>>>>>>> d2e7b951dce912923d6d05b0809030f1f81655b7
