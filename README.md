@@ -56,3 +56,8 @@
     2. ROS
     3. WEBcrawling
     
+    
+00. 참고하면 좋은 사이트
+
+    1. [그래프 신경망](https://github.com/thunlp/GNNPapers)
+    2. [논문 읽기 모임의 논문 정리 목록 사이트](https://github.com/taeoh-kim/pr12)
