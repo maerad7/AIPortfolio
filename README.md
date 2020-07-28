@@ -61,4 +61,6 @@
 
     1. [그래프 신경망](https://github.com/thunlp/GNNPapers)
     2. [논문 읽기 모임의 논문 정리 목록 사이트](https://github.com/taeoh-kim/pr12)
-    3. [논문 정리 목록](https://github.com/thunlp?q=Must-read+&type=&language=)
+    3. [신경망](https://github.com/thunlp/NeuIRPapers)
+    4. [NRL/NE](https://github.com/thunlp/NRLPapers)
+    5. [지식그래프](https://github.com/thunlp/KRLPapers)
