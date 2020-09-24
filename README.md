@@ -64,3 +64,4 @@
     3. [신경망](https://github.com/thunlp/NeuIRPapers)
     4. [NRL/NE](https://github.com/thunlp/NRLPapers)
     5. [지식그래프](https://github.com/thunlp/KRLPapers)
+    6. [NLP](https://github.com/Kyubyong/nlp_tasks)
